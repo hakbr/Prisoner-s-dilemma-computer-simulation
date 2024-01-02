@@ -24,7 +24,7 @@ This bash script simulates the Iterative Prisoner's Dilemma, a classic game in g
 
 1. **Set Parameters:** Customize the number of iterations, initial strategies, and payoff matrix values according to your requirements.
 
-2. **Run the Script:** Execute the script by running `./prisoners_dilemma.sh` in your terminal.
+2. **Run the Script:** Execute the script by running `./.prisonerdilemma.sh` in your terminal.
 
 3. **Review Results:** Observe the printed optimal strategies for both players after the simulation completes.
 
